@@ -1,5 +1,5 @@
 # **Hypothesis of External Modulation of Human Cognition** 
-**By: Kaio Ricardo Garcia**
+**By: Kaio Ricardo Garcia** - https://linkedin.com/in/kaioqa
 
 ## **1\. Abstract**
 
