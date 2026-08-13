@@ -245,6 +245,8 @@ https://patents.google.com/patent/US3951134A/en
 
 https://www.act.nato.int/article/cogwar-concept/
 
+https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast_public_comments_march_2012.pdf
+
 https://www.govinfo.gov/content/pkg/USCOURTS-paed-5_22-cv-04394/pdf/USCOURTS-paed-5_22-cv-04394-0.pdf
 
 https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems
