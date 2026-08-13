@@ -237,6 +237,8 @@ The purpose of this document is therefore to transform a speculative suspicion i
 
 References:
 
+https://www.hackthetorture.com/2018/08/education-remote-neural-monitoring.html
+
 https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11618680/
