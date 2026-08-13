@@ -243,7 +243,9 @@ https://patents.google.com/patent/US20200275874A1/en
 
 https://patents.google.com/patent/US3951134A/en
 
-https://www.act.nato.int/article/cogwar-concept/?utm_source=chatgpt.com
+https://www.act.nato.int/article/cogwar-concept/
+
+https://www.govinfo.gov/content/pkg/USCOURTS-paed-5_22-cv-04394/pdf/USCOURTS-paed-5_22-cv-04394-0.pdf
 
 https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems
 
