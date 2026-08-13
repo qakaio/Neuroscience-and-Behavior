@@ -237,15 +237,15 @@ The purpose of this document is therefore to transform a speculative suspicion i
 
 References:
 
-https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems?utm_source=chatgpt.com
+https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11618680/?utm_source=chatgpt.com
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11618680/
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11136498/?utm_source=chatgpt.com
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11136498/
 
-https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00734/full?utm_source=chatgpt.com
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00734/full
 
-https://onlinelibrary.wiley.com/doi/10.1155/2023/4464934?utm_source=chatgpt.com
+https://onlinelibrary.wiley.com/doi/10.1155/2023/4464934
 
 
 
