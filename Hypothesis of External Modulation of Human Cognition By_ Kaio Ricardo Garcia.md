@@ -249,11 +249,7 @@ https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/pcast_p
 
 https://www.govinfo.gov/content/pkg/USCOURTS-paed-5_22-cv-04394/pdf/USCOURTS-paed-5_22-cv-04394-0.pdf
 
-https://www.lupotoro.com/insights/wireless-synthetic-telepathy-neurotechnology-directed-energy-systems
-
-https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00734/full
-
-https://onlinelibrary.wiley.com/doi/10.1155/2023/4464934
+https://www.liber-tech.org/remote-neural-monitoring
 
 
 
