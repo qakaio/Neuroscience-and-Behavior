@@ -53,7 +53,6 @@ The victim's discomfort is often used by the aggressor to demonstrate victory or
 - Personal achievements
 - Mental health
 - Healthy relationships
-- Taking care of Nina
 - Emotional intelligence, integrity, and inner peace
 
 When he insists on saying he "won" because he knocked you down, he's revealing three very clear things:
@@ -72,7 +71,7 @@ I'm winning in every area of my life. The only place I "lose" is in the childish
 
 ### On relationships
 
-Relationships can be deceiving, because as far as we know, people close to us might be going through the same difficulties. If my mother, my brother, or even Letícia show unusual behavior, the best thing to do is to ignore it and offer support.
+Relationships can be deceiving, because as far as we know, people close to us might be going through the same difficulties. If my mother, my brother, or someone close show unusual behavior, the best thing to do is to ignore it and offer support.
 
 > "We all have flaws. Respect above all."
 
