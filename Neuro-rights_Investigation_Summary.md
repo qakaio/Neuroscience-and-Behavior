@@ -1,821 +1,1108 @@
-**Investigation status:** Preliminary  
-**Reference date:** 23 August 2026  
-**Subject:** Fundación LIBERTECH and others / LiberTech, neuro-rights, neurotechnology, Remote Neural Monitoring (RNM), V2K, and the proposed forensic detection project.
+# Relevant NeuroRights Organizations, Institutions, Networks and Research Centers
+
+**Scope:** Global landscape of organizations relevant to neuro-rights, neuroethics, neurotechnology governance, neural-data protection, neuroscience, neurolaw, and, where relevant, claims involving remote neural monitoring (RNM) or Voice-to-Skull (V2K).
+
+**Reference date:** 23 August 2026
+
+> **Important:** "Neuro-rights organization" is used broadly here. Some entities are dedicated NGOs, some are university initiatives, professional societies, intergovernmental organizations, research centers, policy bodies, or academic networks. They should not be treated as interchangeable.
 
 ---
 
-## 1. Executive conclusion
+# 1. Executive overview
 
-The evidence reviewed so far supports a nuanced conclusion:
+The neuro-rights landscape is much larger than Fundación LIBERTECH.
 
-> **Fundación LIBERTECH appears to be a real and institutionally established Chilean organization with genuine participation in the country's science-policy ecosystem. However, there is currently no comparable public evidence showing that it has the scientific infrastructure, experimental results, or independent validation required to demonstrate Remote Neural Monitoring (RNM) or Voice-to-Skull (V2K).**
-
-This distinction is critical.
-
-LiberTech should **not** currently be described as:
-
-- a major international neuroscience laboratory;
-- an authoritative scientific center for RNM;
-- a government laboratory;
-- an institution that has demonstrated operational RNM/V2K.
-
-It is more accurately described as:
-
-- a relatively young Chilean organization;
-- institutionally recognized within the Chilean science-policy system;
-- focused on technology, AI, neuro-rights, digital risks, advocacy, and forensic technology;
-- developing a proposed forensic laboratory and RNM-related research project;
-- potentially capable of coordinating advocacy and multidisciplinary research, but not currently demonstrated to possess the infrastructure needed to independently prove RNM/V2K.
-
----
-
-# 2. Preliminary assessment
-
-| Dimension | Preliminary assessment |
-|---|---:|
-| Institutional existence | **8/10** |
-| Legal/institutional legitimacy | **8/10** |
-| Government/institutional presence | **8/10** |
-| Advocacy capacity | **7/10** |
-| Legal capacity | **6/10** |
-| AI/software capacity | **6/10** |
-| Experimental neuroscience | **3/10** |
-| RF/EMF engineering | **2/10** |
-| Laboratory capacity | **2/10** |
-| Experimental evidence for RNM | **1/10** |
-| Independent scientific production | **3/10** |
-| Ability to independently lead an international RNM investigation | **2/10** |
-
-These scores are provisional. They are not claims that LiberTech lacks competence in every area. They reflect the evidence publicly identified so far.
-
----
-
-# 3. LiberTech's institutional status
-
-One of the strongest findings is that LiberTech's institutional presence in Chile is independently verifiable.
-
-The Chilean Ministry of Science's official COSOC information identifies:
-
-**Horacio Correa, President of Fundación Libertech**
-
-as one of the council's members.
-
-The Ministry describes the COSOC as a consultative body involving non-profit civil-society organizations with legal personality and activities related to science, technology, knowledge, and innovation.
-
-In August 2024, the Ministry officially published the results of its accreditation process for the **2024-2026 COSOC**, and Fundación Libertech was among the accredited organizations.
-
-Therefore, the following can be considered independently confirmed:
-
-- LiberTech was accredited to participate in the COSOC.
-- Horacio Correa represents Fundación Libertech.
-- The organization had sufficient legal/institutional standing to participate in the accreditation process.
-- Its participation is not merely a claim appearing on LiberTech's own website.
-
-### Important limitation
-
-COSOC membership must not be confused with government membership or scientific certification.
-
-LiberTech is a participant in a **consultative civil-society council**.
-
-It is **not** therefore:
-
-- part of the Chilean government;
-- a government laboratory;
-- a government research agency;
-- automatically certified as a leading scientific institution.
-
-Nevertheless, COSOC participation is a meaningful institutional achievement.
-
----
-
-# 4. The significance of the COSOC position
-
-The COSOC includes organizations with very different profiles, including professional associations, scientific societies, educational organizations, technology foundations, and civil-society groups.
-
-Examples include organizations associated with:
-
-- microbiology;
-- geology;
-- engineering;
-- women researchers;
-- science policy;
-- digital technology;
-- innovation;
-- human rights;
-- Fundación Libertech.
-
-This reinforces an important point:
-
-> **COSOC membership demonstrates institutional access and civil-society participation. It does not certify scientific excellence in a particular technical field.**
-
-For LiberTech, its COSOC position is best interpreted as evidence of **institutional legitimacy and access to public-policy discussions**, not as proof that it possesses advanced RNM research capabilities.
-
----
-
-# 5. Horacio Correa
-
-The available evidence indicates that Horacio Correa is not simply an unqualified individual presenting himself as a scientist.
-
-His documented background includes:
-
-- Civil Engineer in Computing and Informatics;
-- MBA-level business education;
-- technology and management experience;
-- AI and data-related work;
-- technological governance;
-- neurotechnology/neuro-rights activities;
-- forensic AI-related work.
-
-The Chilean Chamber of Deputies also records his participation as an **AI judicial expert accredited before the Chilean Supreme Court**, in the context of discussions concerning neuro-rights legislation.
-
-There are also publications associated with him concerning topics such as:
-
-- sociotechnical data governance;
-- neuro-rights;
-- AI;
-- neurodata;
-- evidence models;
-- neurofunctional integrity.
-
-Therefore, it would be inaccurate to characterize the organization's leadership as having no legitimate technical background.
-
----
-
-# 6. The major qualification gap
-
-However, there is a substantial difference between Correa's documented expertise and the expertise required to independently build and validate a remote neural-monitoring system.
-
-The evidence reviewed so far does **not** establish comparable advanced expertise in:
-
-- experimental neurophysiology;
-- RF engineering;
-- applied electromagnetics;
-- MEG;
-- biomedical instrumentation;
-- experimental neural signal processing;
-- medical physics;
-- neuroimaging;
-- antenna engineering;
-- ultra-low-field magnetometry.
-
-This does not invalidate LiberTech's work.
-
-It means that **a multidisciplinary team would be required** for the proposed RNM research.
-
-A credible program would need expertise spanning areas such as:
+The organizations with the strongest demonstrated international influence are generally **not organizations dedicated to RNM/V2K allegations**. They work primarily on the legitimate and rapidly developing intersection of:
 
 - neuroscience;
-- RF engineering;
-- electromagnetics;
-- signal processing;
-- statistics;
-- machine learning;
-- biomedical engineering;
-- experimental design;
-- human-subject research;
+- neurotechnology;
+- brain-computer interfaces (BCIs);
+- neural data;
+- mental privacy;
+- cognitive liberty;
+- autonomy;
+- identity;
+- mental integrity;
+- algorithmic discrimination;
+- responsible innovation;
 - bioethics;
-- law and human rights.
+- neurolaw;
+- human rights;
+- technology governance.
+
+A useful way to understand the ecosystem is to divide it into six layers:
+
+1. **Global norm-setting bodies**
+   - UNESCO
+   - OECD
+   - United Nations / UN Human Rights Council
+   - Council of Europe
+
+2. **Dedicated neuro-rights advocacy organizations**
+   - Neurorights Foundation
+   - the former Columbia NeuroRights Initiative
+
+3. **Academic neuroethics / neurolaw organizations**
+   - International Neuroethics Society
+   - Neuroethics Canada
+   - Nuffield Council on Bioethics
+   - university-based neuroethics and neurolaw centers
+
+4. **Neuroscience and neurotechnology research institutions**
+   - Columbia NeuroTechnology Center
+   - major BCI/neuroscience laboratories
+   - national brain initiatives
+   - IEEE Brain
+
+5. **Regional networks**
+   - International Network for Neuro-Law and Human Rights
+   - Ibero-American Network for Neuro-Law and Neuroethics
+   - Chilean and Latin American academic initiatives
+
+6. **Specialized civil-society / technology-rights organizations**
+   - organizations working on privacy, surveillance, digital rights, biomedical ethics, or human rights can become relevant to neuro-rights even when they do not specialize in neuroscience.
+
+The central conclusion is:
+
+> **LiberTech is one participant in a much larger ecosystem, and it is not currently the strongest organization in neuro-rights, neuroscience, neurotechnology, or international policy.**
+
+Its potentially distinctive niche is the combination of **neuro-rights advocacy + forensic technology + allegations involving RNM/V2K**.
+
+That combination is unusual. It should not be confused with scientific leadership in neurotechnology.
 
 ---
 
-# 7. The forensic laboratory
+# 2. The most important organizations and institutions
 
-One of the most important findings concerns LiberTech's so-called forensic laboratory.
+## Tier 1. Global norm-setting and international governance
 
-LiberTech's own material describes an intention to create a forensic laboratory and presents the project as something that still requires:
+### 2.1 UNESCO
 
-- fundraising;
-- recruitment of specialists;
-- prototype development;
-- equipment acquisition;
-- facilities;
-- operational development.
+**Type:** United Nations specialized agency / intergovernmental organization  
+**Geographic scope:** Global  
+**Primary relevance:** Ethics, human rights, international neurotechnology governance
 
-The laboratory project therefore should **not currently be described as an established, fully operational neuroscience/RF laboratory**.
+UNESCO is arguably the most important **intergovernmental institution** in the current neurotechnology ethics landscape.
 
-The more accurate description is:
+In November 2025, UNESCO adopted the **Recommendation on the Ethics of Neurotechnology**, described by UNESCO as the first global normative instrument specifically addressing the ethical governance of neurotechnology. The process involved a multidisciplinary international expert group and intergovernmental negotiations. citeturn0search0turn0search1
 
-> **a laboratory project under development.**
+UNESCO explicitly identifies issues including:
 
-LiberTech's website has also explicitly called for support to help build the forensic laboratory.
+- mental privacy;
+- freedom of thought;
+- cognitive liberty;
+- personal identity;
+- mental integrity;
+- human dignity;
+- protection of brain data;
+- autonomy;
+- risks associated with neurotechnology and AI.
 
-This is consistent with the organization's own project documentation.
+UNESCO's International Bioethics Committee had already called for stronger protection of brain activity and mental privacy before the 2025 Recommendation. citeturn0search4turn0search16
+
+**Relevance to RNM/V2K:**  
+UNESCO does not validate RNM/V2K claims. Its relevance is much broader: it establishes international ethical and human-rights principles for real neurotechnologies capable of recording, interpreting, or modifying brain activity.
+
+**Importance:** ★★★★★
 
 ---
 
-# 8. The proposed RNM project
+### 2.2 OECD
 
-LiberTech has published a proposal titled:
+**Type:** Intergovernmental organization  
+**Geographic scope:** Global / member and partner countries  
+**Primary relevance:** Responsible innovation and technology governance
 
-**"Sistema Forense de Detección de Actividad Electromagnética Cognitiva y Análisis de Posibles Tecnologías RNM mediante Inteligencia Artificial."**
+The OECD has been working on responsible neurotechnology governance for years.
 
-The proposal describes a system involving:
+Its **Recommendation on Responsible Innovation in Neurotechnology** emphasizes:
 
-- high-sensitivity EMF sensors;
+- responsible innovation;
+- safety assessment;
+- inclusivity;
+- scientific collaboration;
+- societal deliberation;
+- oversight;
+- protection of personal brain data;
+- stewardship and trust;
+- anticipation of unintended use and misuse. citeturn0search6turn0search19
+
+The OECD currently describes neurotechnology as involving areas such as:
+
+- neuroimaging;
+- BCIs;
+- neuromodulation;
+- neurological devices.
+
+It also emphasizes collaboration among governments, researchers, industry, clinicians, and civil society. citeturn0search2
+
+**Relevance to RNM/V2K:**  
+The OECD does not establish that long-range RNM exists. Its value is in providing a high-level governance framework for technologies that genuinely interact with the nervous system.
+
+**Importance:** ★★★★★
+
+---
+
+### 2.3 United Nations / UN Human Rights Council
+
+**Type:** Intergovernmental human-rights system  
+**Geographic scope:** Global  
+**Primary relevance:** Human rights and neurotechnology
+
+The UN Human Rights Council has formally examined the **impact, opportunities and challenges of neurotechnology with regard to the promotion and protection of all human rights**.
+
+A 2024 Human Rights Advisory Committee report specifically addressed:
+
+- neurotechnology;
+- human rights;
+- opportunities;
+- risks;
+- governance;
+- privacy;
+- autonomy;
+- mental integrity.
+
+citeturn1search34
+
+This is important because neurotechnology is no longer merely a niche bioethics issue. It has entered the formal international human-rights system.
+
+**Relevance to RNM/V2K:**  
+The UN system is potentially important for allegations of coercive or non-consensual neurotechnology, but it does not constitute evidence that alleged RNM/V2K systems exist.
+
+**Importance:** ★★★★★
+
+---
+
+### 2.4 Council of Europe
+
+**Type:** Regional intergovernmental human-rights organization  
+**Geographic scope:** Europe  
+**Primary relevance:** Human rights, biomedicine, neurotechnology governance
+
+The Council of Europe has examined whether existing human-rights law can adequately address neurotechnology.
+
+Its work discusses issues including:
+
+- privacy;
+- freedom of thought;
+- mental integrity;
+- cognitive liberty;
+- psychological continuity;
+- discrimination;
+- self-incrimination;
+- neurotechnology and biomedicine.
+
+A particularly important point is that Council of Europe discussions have questioned whether entirely new rights are necessary or whether existing human rights should be interpreted and adapted to neurotechnology. citeturn1search35
+
+**Importance:** ★★★★★
+
+---
+
+# 3. Dedicated neuro-rights organizations
+
+## 3.1 Neurorights Foundation
+
+**Type:** U.S. nonprofit, 501(c)(3)  
+**Location:** United States  
+**Primary relevance:** Neuro-rights advocacy, research, policy, industry governance
+
+This is probably the **single most important dedicated neuro-rights NGO** currently operating internationally.
+
+The Foundation was established in 2022 by:
+
+- Rafael Yuste;
+- Jared Genser;
+- Jamie Daves.
+
+It describes its work as involving:
+
+- governance;
+- research;
+- stakeholder engagement;
+- public education;
+- non-discrimination;
+- fair access;
+- responsible neurotechnology.
+
+citeturn1search0turn1search1
+
+Its five principal neurorights framework includes:
+
+1. Mental privacy.
+2. Identity.
+3. Agency.
+4. Fair access to mental augmentation.
+5. Protection from algorithmic bias.
+
+The Foundation explicitly notes that these are not necessarily entirely "new" human rights. They can be grounded in existing human-rights instruments and their further interpretation. citeturn1search4
+
+### Demonstrated influence
+
+The Foundation reports involvement in:
+
+- U.S. and state-level neural-data legislation;
+- international policy;
+- UN engagement;
+- Latin American neuro-rights initiatives;
+- European policy;
+- consumer neurotechnology privacy analysis;
+- industry accountability.
+
+Its advocacy page reports engagement with governments, regulators, the United Nations, industry, and international organizations. citeturn1search8
+
+**Scientific capacity:** High through its network and leadership, but it is primarily a policy/advocacy organization rather than a full experimental neuroscience laboratory.
+
+**RNM/V2K:** Not its primary scientific focus.
+
+**Importance:** ★★★★★
+
+---
+
+# 4. Columbia University and the NeuroRights Initiative
+
+## 4.1 Columbia University NeuroRights Initiative
+
+**Type:** University-based science-policy and human-rights initiative  
+**Location:** New York, United States
+
+The NeuroRights Initiative was established at Columbia by neuroscientist Rafael Yuste.
+
+Its mission was to promote ethical neurotechnology and AI and address:
+
+- privacy;
+- identity;
+- agency;
+- equality;
+- neurotechnology governance.
+
+Columbia describes the initiative as a science-policy and human-rights advocacy project. citeturn1search7
+
+The initiative subsequently became incorporated into the Neurorights Foundation.
+
+Therefore:
+
+> **The Columbia NeuroRights Initiative is historically foundational to the modern neurorights movement, but it should not be counted as an independent organization equivalent to the current Neurorights Foundation.**
+
+**Importance:** ★★★★★ historically; ★★★★ current as a distinct entity
+
+---
+
+# 5. Morningside Group
+
+**Type:** Multidisciplinary expert group  
+**Origin:** Columbia University workshop, 2017  
+**Primary relevance:** Foundational neuroethics framework
+
+The Morningside Group is not a conventional NGO.
+
+It was a multidisciplinary group of:
+
+- neuroscientists;
+- neurotechnologists;
+- clinicians;
+- ethicists;
+- machine-intelligence engineers.
+
+Its work culminated in the influential 2017 **Nature** article:
+
+> "Four ethical priorities for neurotechnologies and AI."
+
+The group proposed four major areas:
+
+1. Privacy and consent.
+2. Agency and identity.
+3. Augmentation.
+4. Bias.
+
+citeturn2search1turn2search4
+
+This paper was highly influential in establishing the intellectual foundations of the modern neurorights movement.
+
+**Importance:** ★★★★★ historically
+
+---
+
+# 6. International Neuroethics Society
+
+**Type:** International professional/scientific society  
+**Geographic scope:** Global  
+**Primary relevance:** Neuroethics research and professional community
+
+The International Neuroethics Society is a professional association focused on the ethical, legal, clinical, social, and policy implications of brain sciences and technology.
+
+Its 2025 materials describe approximately **300 experts and scholars from more than 35 countries**, spanning multiple disciplines and connected to universities, scientific institutions, governments, and policy networks. citeturn1search37
+
+This makes the INS particularly important for:
+
+- academic neuroethics;
+- professional networking;
+- conferences;
+- interdisciplinary research;
+- ethics of neuroscience;
+- ethics of neurotechnology.
+
+**RNM/V2K:** Not its primary mission.
+
+**Importance:** ★★★★★
+
+---
+
+# 7. Neuroethics Canada
+
+**Type:** University-based neuroethics community  
+**Location:** University of British Columbia / Canada
+
+Neuroethics Canada brings together:
+
+- scientists;
+- ethicists;
+- health professionals;
+- legal experts;
+- educators;
+- policymakers;
+- students.
+
+Its work examines ethical, legal and social implications of neuroscience and neurotechnology. citeturn2search8
+
+Key themes include:
+
+- self-determination;
+- social justice;
+- responsible neurotechnology;
+- public engagement;
+- connections between academia, government, industry, and international research groups.
+
+**Importance:** ★★★★½
+
+---
+
+# 8. Nuffield Council on Bioethics
+
+**Type:** Independent UK policy and research center  
+**Location:** United Kingdom  
+**Primary relevance:** Bioethics, neurotechnology, BCI governance
+
+The Nuffield Council on Bioethics has a long history of work on neurotechnology.
+
+Its 2013 report **Novel neurotechnologies: intervening in the brain** examined:
+
+- benefits and risks;
+- patient and research-participant protection;
+- responsible research and innovation;
+- regulation;
+- non-medical applications;
+- communication.
+
+citeturn2search6
+
+As of July 2026, it has launched a new project examining **brain-computer interfaces and their convergence with AI and quantum computing**. citeturn2search3
+
+This makes Nuffield particularly relevant to the current BCI/neurotechnology debate.
+
+**Importance:** ★★★★½
+
+---
+
+# 9. IEEE Brain
+
+**Type:** Professional engineering organization / technical community  
+**Global scope:** International  
+**Primary relevance:** Neuroengineering and neuroethics
+
+IEEE Brain is important because it connects the neurotechnology ethics debate to actual engineering.
+
+Its neuroethics framework addresses:
+
+- recording/sensing;
+- stimulation;
+- control;
+- physical/biological modification;
+- augmentation;
+- medicine;
+- wellness;
+- education;
+- employment;
+- military/national security;
+- entertainment;
+- justice;
+- marketing.
+
+The framework was developed through collaboration among engineers, scientists, clinicians, ethicists, sociologists, lawyers, and other stakeholders. citeturn2search36
+
+This makes IEEE Brain particularly relevant to any future attempt to turn RNM questions into technically testable experiments.
+
+**Importance:** ★★★★½
+
+---
+
+# 10. U.S. BRAIN Initiative
+
+**Type:** Major national neuroscience research initiative  
+**Location:** United States  
+**Primary relevance:** Neuroscience and neurotechnology research
+
+The BRAIN Initiative is not a neurorights organization.
+
+It is relevant because it represents one of the world's largest coordinated neuroscience research efforts and has explicitly incorporated neuroethics.
+
+A National Institutes of Health advisory report noted that advances in BRAIN technologies create an obligation to anticipate and address neuroethical issues. citeturn2search39
+
+**Importance for neuro-rights:** ★★★★  
+**Importance for neuroscience/technical validation:** ★★★★★
+
+---
+
+# 11. Columbia NeuroTechnology Center
+
+**Type:** University research center  
+**Location:** Columbia University, United States  
+**Primary relevance:** Experimental neurotechnology
+
+This is one of the most important organizations to distinguish from the NeuroRights Initiative.
+
+The NeuroTechnology Center is a scientific research environment involving fields such as:
+
+- neuroscience;
+- engineering;
+- neurotechnology;
+- data science;
+- neural interfaces.
+
+Rafael Yuste is associated with Columbia's neuroscience and neurotechnology ecosystem.
+
+This type of institution is much more relevant than a policy NGO if the objective is to determine whether a proposed neurotechnology actually works.
+
+**Importance for experimental neuroscience:** ★★★★★  
+**Importance for neuro-rights policy:** ★★★★
+
+---
+
+# 12. Latin American organizations and networks
+
+## 12.1 International Network for Neuro-Law and Human Rights
+
+**Type:** Academic network  
+**Regional focus:** Latin America and international collaboration
+
+This network was created in 2021 by:
+
+- Universidade de Fortaleza (Brazil);
+- Universidad Externado de Colombia;
+- Universidad Austral de Chile.
+
+PUCRS joined in 2024, and the network has also included researchers associated with INSPER. citeturn3search0turn3search8
+
+The network works at the intersection of:
+
+- neurolaw;
+- neuro-rights;
+- human rights;
+- neuroscience;
+- legal scholarship.
+
+It is particularly relevant because it is **Latin American and academically embedded**, rather than being primarily a U.S. advocacy organization.
+
+**Importance:** ★★★★½ regionally
+
+---
+
+# 13. Ibero-American Network for Neuro-Law and Neuroethics
+
+**Type:** Academic/research network  
+**Regional scope:** Latin America + Iberian Peninsula
+
+The Universidad Externado de Colombia helped establish the **Red Iberoamericana de Neuroderecho y Neuroética** in June 2024.
+
+The launch involved more than 20 researchers from countries including:
+
+- Spain;
+- Mexico;
+- Argentina;
+- Chile;
+- Colombia;
+- Uruguay;
+- Brazil.
+
+citeturn3search10
+
+The network later described more than 35 experts, institutions, universities, academic centers, and foundations participating in its broader ecosystem. citeturn3search3
+
+Its objectives include:
+
+- academic collaboration;
+- research;
+- publications;
+- education;
+- professional training;
+- evidence-based justice;
+- neuroethics.
+
+**Importance:** ★★★★½ regionally
+
+---
+
+# 14. Universidad Externado de Colombia
+
+**Type:** University / research center  
+**Location:** Colombia  
+**Primary relevance:** Neuro-law, neuro-rights, Latin American policy
+
+The University's Center for Studies on Genetics and Law has developed a particularly active research line on neuro-rights.
+
+Its work addresses:
+
+- cognitive liberty;
+- human rights;
+- neurotechnology;
+- consumer neurotechnology;
+- neurolaw;
+- Latin American legislation;
+- critical analysis of proposed neuro-rights frameworks.
+
+The center has published in venues including *Nature Neuroscience* and *Frontiers* and participated in international neuroethics meetings. citeturn3search1turn3search2
+
+An important feature is that the center does **not simply advocate for creating more rights**. It critically evaluates whether existing human-rights law is already sufficient and warns against poorly designed or redundant legislation. citeturn3search4
+
+That makes it particularly valuable as an **independent critical counterweight** to advocacy-oriented neurorights organizations.
+
+**Importance:** ★★★★½
+
+---
+
+# 15. Chilean neuro-rights ecosystem
+
+Chile is unusually important because it became an early national test case for neuro-rights legislation.
+
+The Chilean ecosystem has involved:
+
+- Chilean Congress;
+- universities;
+- scientific institutions;
+- Rafael Yuste;
+- Columbia;
+- Morningside experts;
+- legal scholars;
+- neuroethics groups;
+- civil-society organizations;
+- LiberTech.
+
+A 2021 Chilean workshop brought together major figures including:
+
+- Rafael Yuste;
+- Pedro Maldonado;
+- Abel Wajnerman Paz;
+- Joseph Fins;
+- Sara Goering;
+- Pim Haselager;
+- Fabrice Jotterand;
+- Andrea Lavazza.
+
+The event was connected to Chilean constitutional and legislative neuro-rights proposals. citeturn3youtube37
+
+This means Chile is not merely the home of LiberTech. It is one of the world's important **policy laboratories for neuro-rights**.
+
+---
+
+# 16. Fundación LIBERTECH
+
+**Type:** Chilean civil-society organization / foundation  
+**Location:** Santiago, Chile  
+**Primary relevance:** Neuro-rights advocacy + forensic technology + proposed RNM investigation
+
+LiberTech is relevant, but its role should be accurately characterized.
+
+It has demonstrated:
+
+- institutional existence;
+- participation in Chile's science-policy ecosystem;
+- neuro-rights advocacy;
+- interest in forensic technology;
+- a proposed forensic laboratory;
+- a proposed RNM detection project.
+
+Its RNM proposal includes:
+
+- EMF sensing;
+- ELF/RF analysis;
 - machine learning;
 - clustering;
-- ELF/RF detection;
-- scientific visualization;
 - forensic reporting.
 
-The project is presented as an attempt to investigate possible technologies associated with Remote Neural Monitoring.
+The proposal states that Stage 1 involves research and development of an RNM-detection prototype. fileciteturn3file5
 
-The organization's proposed sequence is broadly:
+### What makes LiberTech unusual
 
-### Stage 1
-Fundraising, specialists, prototype development, and initial intellectual-property protection.
+LiberTech is unusual because it explicitly connects:
 
-### Stage 2
-Hardware/software development and laboratory testing.
+- neuro-rights;
+- alleged technological abuse;
+- RNM;
+- V2K-related themes;
+- forensic investigation;
+- human rights.
 
-### Stage 3
-Analysis of results and publication.
+This combination is relatively uncommon among mainstream neuro-rights organizations.
 
-### Stage 4
-Expansion/application.
+### What LiberTech has not publicly demonstrated
 
-This is important because the proposal itself indicates that experimental demonstration is a later objective, rather than an already completed achievement.
+Based on the evidence reviewed so far, it has not demonstrated:
 
----
-
-# 9. Has LiberTech demonstrated RNM?
-
-Based on the public evidence identified so far:
-
-**No public demonstration has been found that establishes operational RNM.**
-
-Specifically, we have not identified public evidence sufficient to establish:
-
-- a completed RNM prototype;
+- a peer-reviewed RNM detection system;
+- independently replicated RNM results;
+- a validated long-range thought-reading system;
 - a public experimental dataset;
-- a peer-reviewed paper demonstrating RNM;
-- source code;
-- a complete experimental protocol;
-- participant numbers;
-- sensitivity/specificity measurements;
-- false-positive rates;
-- blinded testing;
-- double-blind testing;
-- independent laboratory replication;
-- reproducible neural decoding;
-- independent validation of remote thought-reading.
+- a completed and independently validated RNM prototype.
 
-Therefore:
+Therefore, LiberTech should be treated as a **potential advocacy/coordination organization**, not as an established scientific authority on RNM.
 
-| Claim | Current evidence |
-|---|---|
-| LiberTech proposed an RNM project | **Confirmed** |
-| A conceptual methodology exists | **Confirmed** |
-| Prototype development was proposed | **Confirmed** |
-| A completed public RNM prototype exists | **Not established** |
-| Independent validation exists | **Not found** |
-| LiberTech has experimentally demonstrated RNM | **Not demonstrated** |
-
-This does **not** justify calling the project fraudulent.
-
-The scientifically defensible conclusion is simply:
-
-> **There is not yet enough public experimental evidence to determine whether the proposed system works.**
+**Importance in mainstream neuro-rights:** ★★★  
+**Importance for the specific RNM/V2K advocacy niche:** ★★★★  
+**Demonstrated experimental RNM capacity:** ★
 
 ---
 
-# 10. A critical methodological problem
+# 17. Organizations adjacent to neuro-rights
 
-The project refers to detection of "cognitive electromagnetic activity" using EMF sensors, machine learning, clustering, ELF, and RF.
+These organizations are not necessarily "neurorights organizations" but can be highly relevant.
 
-These concepts must be separated into different scientific tasks.
+## 17.1 Human-rights organizations
 
-### Level 1
-Detect an electromagnetic signal.
+Human-rights institutions can become relevant when neurotechnology raises questions about:
 
-### Level 2
-Demonstrate that the signal originates from neural activity.
+- freedom of thought;
+- bodily integrity;
+- privacy;
+- discrimination;
+- informed consent;
+- surveillance;
+- torture;
+- coercion;
+- due process.
 
-### Level 3
-Demonstrate that the signal contains specific neural information.
-
-### Level 4
-Decode a person's thoughts.
-
-These are **not equivalent tasks**.
-
-Machine learning cannot solve the first three problems automatically. It can classify or decode information only if a measurable signal containing that information exists and the experiment has sufficient signal-to-noise ratio and controls.
-
-This distinction should be central to any serious RNM investigation.
+However, their involvement should not be interpreted as endorsement of RNM/V2K claims.
 
 ---
 
-# 11. Non-contact neural detection is not inherently impossible
+## 17.2 Digital-rights and privacy organizations
 
-It would also be scientifically incorrect to conclude that all non-contact neural detection is impossible.
+Organizations focused on:
 
-Experimental neuroscience has demonstrated detection of brain-associated electromagnetic activity without physical electrical contact.
+- privacy;
+- surveillance;
+- data protection;
+- cybersecurity;
+- algorithmic accountability;
 
-Studies using specialized sensors have reported non-contact detection of brain electromagnetic activity, including experiments at distances on the order of tens of centimeters.
+may become increasingly important as consumer neurotechnology generates neural data.
 
-However, these experiments involve highly controlled conditions and specialized instrumentation.
+They are especially relevant to **actual connected EEG/BCI devices**, where unauthorized access or misuse of neural data is a concrete cybersecurity problem.
 
-This is fundamentally different from the claim that a person's thoughts can be read:
+---
 
-- through walls;
-- at large distances;
-- without a nearby specialized sensor;
-- without an implanted or wearable interface;
-- in uncontrolled environments;
-- with arbitrary thought content.
+# 18. Organizations that should NOT be conflated with RNM/V2K organizations
 
-Therefore:
+This is essential for the project.
 
-> **Non-contact detection of neural signals is scientifically plausible and has been experimentally demonstrated under specific conditions.**
+The following are highly relevant to neurotechnology but **do not thereby validate remote neural monitoring or V2K**:
+
+- UNESCO;
+- OECD;
+- United Nations;
+- Council of Europe;
+- Neurorights Foundation;
+- International Neuroethics Society;
+- Columbia University;
+- Nuffield Council on Bioethics;
+- IEEE Brain;
+- BRAIN Initiative;
+- Neuroethics Canada;
+- Latin American academic networks.
+
+Their work concerns real and emerging neurotechnologies and their ethical, legal, and human-rights implications.
+
+That is different from demonstrating a covert long-range RNM/V2K system.
+
+---
+
+# 19. Organizations specifically relevant to alleged RNM/V2K victims
+
+This category is much smaller.
+
+There is currently a major asymmetry:
+
+### Mainstream neuro-rights ecosystem
+
+Large and well-established.
+
+Includes:
+
+- governments;
+- universities;
+- scientific societies;
+- UNESCO;
+- OECD;
+- UN;
+- major NGOs;
+- professional associations.
+
+### RNM/V2K-specific advocacy ecosystem
+
+Much smaller and far less institutionally established.
+
+It contains:
+
+- niche advocacy organizations;
+- individual researchers;
+- victim-support communities;
+- online communities;
+- organizations such as LiberTech that explicitly attempt to bridge the issue with forensic technology.
+
+This is an important finding.
+
+> **There does not appear to be a major internationally recognized scientific organization whose primary mission is to investigate and validate civilian allegations of long-range RNM/V2K.**
+
+That gap may be one reason LiberTech appears unusually important within the RNM/V2K-specific ecosystem despite being much smaller than mainstream neuro-rights institutions.
+
+---
+
+# 20. Comparative matrix
+
+| Organization / institution | Neuro-rights | Neuroethics | Neuroscience | Neurotechnology | Human rights | RNM/V2K-specific | Research capacity | Policy influence |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| **UNESCO** | ★★★★★ | ★★★★★ | ★★★★ | ★★★★★ | ★★★★★ | ★ | ★★★★ | ★★★★★ |
+| **OECD** | ★★★★ | ★★★★★ | ★★★ | ★★★★★ | ★★★★ | ★ | ★★★★ | ★★★★★ |
+| **UN / Human Rights Council** | ★★★★★ | ★★★★ | ★★★ | ★★★★ | ★★★★★ | ★ | ★★★ | ★★★★★ |
+| **Council of Europe** | ★★★★ | ★★★★★ | ★★★ | ★★★★ | ★★★★★ | ★ | ★★★★ | ★★★★★ |
+| **Neurorights Foundation** | ★★★★★ | ★★★★★ | ★★★★ | ★★★★★ | ★★★★★ | ★ | ★★★★ | ★★★★★ |
+| **Columbia NeuroRights Initiative** | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★ | ★ | ★★★★★ | ★★★★★ |
+| **Morningside Group** | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★★ | ★★★★ | ★ | ★★★★★ | ★★★★ |
+| **International Neuroethics Society** | ★★★★ | ★★★★★ | ★★★★ | ★★★★ | ★★★★ | ★ | ★★★★★ | ★★★★ |
+| **Neuroethics Canada** | ★★★★ | ★★★★★ | ★★★★ | ★★★★ | ★★★★ | ★ | ★★★★ | ★★★ |
+| **Nuffield Council on Bioethics** | ★★★★ | ★★★★★ | ★★★ | ★★★★ | ★★★★ | ★ | ★★★★ | ★★★★ |
+| **IEEE Brain** | ★★★★ | ★★★★ | ★★★★★ | ★★★★★ | ★★★ | ★ | ★★★★★ | ★★★★ |
+| **BRAIN Initiative** | ★★★ | ★★★★ | ★★★★★ | ★★★★★ | ★★★ | ★ | ★★★★★ | ★★★★★ |
+| **Columbia NeuroTechnology Center** | ★★★★ | ★★★★ | ★★★★★ | ★★★★★ | ★★★ | ★ | ★★★★★ | ★★★★ |
+| **International Network for Neuro-Law & Human Rights** | ★★★★★ | ★★★★ | ★★★ | ★★★ | ★★★★★ | ★ | ★★★★ | ★★★★ |
+| **Ibero-American Network for Neuro-Law & Neuroethics** | ★★★★★ | ★★★★★ | ★★★ | ★★★ | ★★★★★ | ★ | ★★★★ | ★★★ |
+| **Universidad Externado de Colombia** | ★★★★★ | ★★★★★ | ★★★ | ★★★★ | ★★★★★ | ★ | ★★★★ | ★★★★ |
+| **Fundación LIBERTECH** | ★★★★ | ★★★ | ★★ | ★★★ | ★★★★ | **★★★★** | ★★ | ★★★★ regional |
+| **General victim-support / online groups** | Variable | Variable | Low/variable | Variable | Variable | **★★★★★** | Low/variable | Low |
+
+**Note:** Ratings are comparative qualitative assessments, not objective scientific scores.
+
+---
+
+# 21. The most important distinction: policy authority vs scientific authority
+
+A major source of confusion in this field is treating all forms of authority as equivalent.
+
+There are at least four different kinds of authority:
+
+## A. Scientific authority
+
+Ability to:
+
+- conduct experiments;
+- collect data;
+- build instruments;
+- analyze signals;
+- publish;
+- replicate;
+- validate results.
+
+Examples:
+
+- Columbia NeuroTechnology Center;
+- major neuroscience laboratories;
+- BRAIN Initiative ecosystem;
+- IEEE engineering ecosystem.
+
+## B. Ethical authority
+
+Ability to:
+
+- analyze ethical risks;
+- develop frameworks;
+- convene experts;
+- advise researchers and governments.
+
+Examples:
+
+- International Neuroethics Society;
+- Nuffield Council;
+- UNESCO;
+- OECD.
+
+## C. Legal/policy authority
+
+Ability to:
+
+- influence legislation;
+- interpret human-rights frameworks;
+- advise governments;
+- participate in policy-making.
+
+Examples:
+
+- UN;
+- Council of Europe;
+- UNESCO;
+- OECD;
+- Neurorights Foundation;
+- academic neurolaw networks.
+
+## D. Advocacy / lived-experience authority
+
+Ability to:
+
+- document complaints;
+- represent affected communities;
+- bring cases to institutions;
+- mobilize public attention;
+- advocate for victims.
+
+Examples can include:
+
+- specialized NGOs;
+- civil-society organizations;
+- patient organizations;
+- niche RNM/V2K organizations.
+
+LiberTech's strongest position appears to be in **D + parts of B/C**, rather than A.
+
+---
+
+# 22. Who should be contacted for what?
+
+If the goal is to investigate neurotechnology scientifically:
+
+### First priority
+
+- Columbia NeuroTechnology Center
+- major university neuroscience laboratories
+- IEEE Brain
+- specialized RF/EMF laboratories
+- BCI research groups
+- MEG/OPM-MEG laboratories
+
+### If the goal is neuro-rights policy:
+
+- Neurorights Foundation
+- UNESCO
+- OECD
+- UN Human Rights mechanisms
+- Council of Europe
+- International Neuroethics Society
+
+### If the goal is Latin American legal research:
+
+- International Network for Neuro-Law and Human Rights
+- Ibero-American Network for Neuro-Law and Neuroethics
+- Universidad Externado de Colombia
+- Brazilian and Chilean academic neuro-law groups
+
+### If the goal is advocacy around alleged technological abuse:
+
+- LiberTech
+- specialized civil-society organizations
+- human-rights lawyers
+- digital-rights organizations
+- independent technical experts
+
+The strongest approach would be to **combine these categories rather than search for one organization capable of doing everything**.
+
+---
+
+# 23. Where LiberTech fits
+
+The investigation should therefore not ask:
+
+> "Is LiberTech the organization that will solve RNM?"
+
+A better question is:
+
+> **"Could LiberTech become a bridge between alleged victims, human-rights institutions, neuro-rights advocates, and independent scientific laboratories?"**
+
+That is considerably more plausible.
+
+Its proposed RNM project already frames itself around independent, civil and forensic monitoring. fileciteturn3file5
+
+If it could establish partnerships with:
+
+- a neuroscience laboratory;
+- an RF engineering laboratory;
+- a statistical methods group;
+- a university ethics board;
+- independent legal experts;
+- a human-rights organization;
+
+its credibility and technical capability would increase dramatically.
+
+---
+
+# 24. What is missing from the global ecosystem?
+
+The investigation reveals a potentially important institutional gap:
+
+There are many organizations studying:
+
+**"How should society govern real neurotechnology?"**
+
+There are far fewer organizations studying:
+
+**"Can alleged covert neural surveillance systems be experimentally detected and falsifiably tested?"**
+
+And there appears to be no major internationally recognized institution currently combining:
+
+- neuro-rights;
+- RF/EMF engineering;
+- forensic science;
+- neuroscience;
+- independent victim documentation;
+- long-range neural-signal investigation;
+- human-rights advocacy.
+
+This is exactly the niche LiberTech is attempting to occupy.
+
+But attempting to occupy that niche is not the same as having already demonstrated the necessary scientific capability.
+
+---
+
+# 25. Recommended global research consortium
+
+If the objective is a serious investigation into the strongest RNM claims, the ideal structure would be:
+
+```text
+                         GLOBAL NEURO-RIGHTS / HUMAN-RIGHTS BODY
+                                      |
+                                      |
+                    +-----------------+------------------+
+                    |                                    |
+              POLICY / LAW                          SCIENCE
+                    |                                    |
+        UNESCO / OECD / UN                 +--------------+--------------+
+        Council of Europe                  |              |              |
+        Neurorights Foundation        Neuroscience     RF/EMF          AI/Stats
+        Academic neurolaw networks       labs           labs            labs
+                    |                                    |
+                    +-----------------+------------------+
+                                      |
+                                INDEPENDENT
+                                FORENSIC LAB
+                                      |
+                         Blinded / preregistered tests
+                                      |
+                              Raw data + replication
+                                      |
+                              Peer-reviewed results
+```
+
+LiberTech could potentially occupy the **coordination / advocacy / forensic-documentation** layer rather than attempting to replace the scientific laboratories.
+
+---
+
+# 26. Final ranking by function
+
+## Best organizations for global neuro-rights policy
+
+1. **UNESCO**
+2. **UN Human Rights system**
+3. **OECD**
+4. **Council of Europe**
+5. **Neurorights Foundation**
+
+## Best dedicated neuro-rights NGO
+
+1. **Neurorights Foundation**
+
+## Most historically important intellectual group
+
+1. **Morningside Group**
+2. **Columbia NeuroRights Initiative**
+
+## Strongest academic neuroethics ecosystem
+
+1. **International Neuroethics Society**
+2. **Neuroethics Canada**
+3. **Nuffield Council on Bioethics**
+4. University-based neuroethics programs
+
+## Strongest technical ecosystem
+
+1. **Major neuroscience / BCI laboratories**
+2. **Columbia NeuroTechnology Center**
+3. **BRAIN Initiative ecosystem**
+4. **IEEE Brain**
+5. Specialized MEG / OPM / RF / neural-engineering laboratories
+
+## Strongest Latin American neuro-rights ecosystem
+
+1. **International Network for Neuro-Law and Human Rights**
+2. **Ibero-American Network for Neuro-Law and Neuroethics**
+3. **Universidad Externado de Colombia**
+4. Chilean academic and governmental neuro-rights ecosystem
+
+## Most directly relevant organization to the RNM/V2K advocacy niche
+
+1. **Fundación LIBERTECH**
 
 But:
 
-> **Long-range, through-environment, arbitrary thought decoding remains a much stronger proposition that requires separate evidence.**
+> **"Most directly relevant to RNM/V2K" does not mean "most scientifically capable of proving RNM/V2K."**
+
+That distinction is essential.
 
 ---
 
-# 12. The physics problem
+# 27. Overall conclusion
 
-Brain-generated electromagnetic signals are extremely weak.
+The global neuro-rights field is already substantially institutionalized.
 
-Neuromagnetic fields measured at the scalp are typically on the order of hundreds of femtotesla.
+It now includes:
 
-This is one reason conventional MEG systems require:
+- international organizations;
+- formal global recommendations;
+- national legislation;
+- universities;
+- neuroscience laboratories;
+- professional societies;
+- academic networks;
+- human-rights institutions;
+- dedicated NGOs;
+- industry governance initiatives.
 
-- highly sensitive sensors;
-- close proximity to the head;
-- sophisticated signal processing;
-- environmental noise control;
-- and often magnetic shielding.
+UNESCO's 2025 Recommendation and the OECD's responsible-innovation framework demonstrate that neurotechnology governance has moved beyond a purely speculative academic discussion. citeturn0search1turn0search6
 
-Environmental electromagnetic interference is a major challenge even in modern experimental MEG systems.
+The Neurorights Foundation has emerged as the most visible dedicated advocacy organization, while the International Neuroethics Society and university-based centers provide broader academic infrastructure. citeturn1search1turn1search37
 
-Therefore, a credible LiberTech experiment would have to specify:
+Latin America has an unusually active ecosystem, especially around Chile, Colombia, Brazil, and regional academic networks. citeturn3search0turn3search3
 
-- exactly what signal is being detected;
-- its expected amplitude;
-- its frequency range;
-- sensor sensitivity;
-- sensor-to-subject distance;
-- environmental noise level;
-- expected signal-to-noise ratio;
-- shielding/control strategy;
-- statistical detection threshold.
+LiberTech is therefore **not alone**, and it is not the center of the global neuro-rights movement.
 
-The current proposal does not publicly provide enough detail to answer all of these questions.
+Its distinctive position is narrower:
 
----
+> **It is one of the organizations attempting to connect neuro-rights and human-rights advocacy with forensic investigation of alleged RNM/V2K phenomena.**
 
-# 13. The legitimate scientific area surrounding the project
+That makes it potentially relevant to this project's specific objective.
 
-LiberTech is addressing a genuinely legitimate broader problem.
+However, if the ultimate goal is to establish whether RNM/V2K can actually be detected or demonstrated, the strongest path is **not to rely on LiberTech alone**.
 
-Neurotechnology is advancing rapidly, and neurodata raise serious questions involving:
+The scientifically strongest architecture would combine:
 
-- mental privacy;
-- autonomy;
-- identity;
-- informed consent;
-- manipulation;
-- surveillance;
-- data protection;
-- algorithmic inference.
+**LiberTech / advocacy**
++
+**neuro-rights organizations**
++
+**human-rights institutions**
++
+**neuroscience laboratories**
++
+**RF/EMF engineering laboratories**
++
+**AI/signal-processing researchers**
++
+**independent statistics**
++
+**independent replication.**
 
-These issues are recognized internationally.
-
-UNESCO adopted its first **Recommendation on the Ethics of Neurotechnology** in 2025.
-
-The OECD also has a recommendation concerning responsible innovation in neurotechnology.
-
-Therefore, the general concern about protecting people from misuse of neurotechnology is not inherently fringe or speculative.
-
-The scientific and policy debate about neuro-rights is real.
-
----
-
-# 14. Where the evidentiary problem begins
-
-LiberTech's materials sometimes move from well-established neurotechnology risks to much stronger claims concerning:
-
-- remote EEG detection;
-- brain identification;
-- remote thought decoding;
-- mental-state manipulation;
-- SIGINT-based neural surveillance;
-- "brain prints";
-- remote transmission of information to the brain.
-
-These stronger claims require substantially stronger evidence.
-
-The fact that:
-
-- EEG exists;
-- MEG exists;
-- BCIs exist;
-- neural decoding exists;
-- RF neuromodulation exists;
-- patents exist;
-
-does **not**, by itself, demonstrate that a specific long-range RNM/V2K system exists or is operational.
-
-This distinction should be maintained throughout the investigation.
-
----
-
-# 15. Patents are not proof of operational capability
-
-LiberTech cites patents concerning technologies such as:
-
-- remote monitoring/alteration of brain waves;
-- subliminal presentation;
-- brain-wave analysis;
-- neural interfaces.
-
-A patent establishes that an inventor or applicant claimed an invention and that the patent system recorded the application/grant.
-
-It does **not automatically establish**:
-
-- successful implementation;
-- practical deployment;
-- independent replication;
-- real-world performance;
-- operational deployment;
-- long-range capability.
-
-The evidentiary hierarchy should therefore be:
-
-**Patent**
-
-→ documented claim/invention.
-
-**Prototype**
-
-→ implementation.
-
-**Experiment**
-
-→ controlled test.
-
-**Result**
-
-→ measurable evidence.
-
-**Independent replication**
-
-→ substantially stronger scientific validation.
-
-LiberTech currently has significant material at the proposal/patent/conceptual level, but insufficient public evidence at the independent-validation level.
-
----
-
-# 16. Organizations that are stronger in neuro-rights and neuroscience
-
-LiberTech is definitely **not the only relevant organization**.
-
-A much stronger scientific/institutional ecosystem exists internationally.
-
-## Neurorights Foundation
-
-The Neurorights Foundation was founded by Rafael Yuste, Jared Genser, and Jamie Daves.
-
-It works internationally on:
-
-- neuro-rights;
-- neurotechnology governance;
-- research;
-- legal frameworks;
-- responsible innovation.
-
-Rafael Yuste is a Columbia University neuroscientist and directs the NeuroTechnology Center at Columbia.
-
-## Columbia NeuroTechnology Center
-
-Columbia's NeuroTechnology Center brings together expertise in:
-
-- neuroscience;
-- biomedical engineering;
-- electrical engineering;
-- computer science;
-- statistics;
-- physics;
-- biology;
-- medicine;
-- data science.
-
-This is a much stronger scientific infrastructure for experimental neurotechnology than the evidence currently available for LiberTech.
-
-## Latin American neuro-rights networks
-
-The International Network for Neuro-Law and Human Rights includes universities and researchers across Latin America and provides another relevant academic/legal ecosystem.
-
-Therefore, LiberTech is **not uniquely positioned** in neuro-rights.
-
----
-
-# 17. LiberTech's likely comparative position
-
-At this stage, the organization is best understood as:
-
-### Stronger in
-
-- institutional advocacy;
-- Chilean public-policy access;
-- AI/technology governance;
-- neuro-rights discussion;
-- forensic-technology concepts;
-- coordination and civil-society representation.
-
-### Weaker or not yet demonstrated in
-
-- experimental neuroscience;
-- RF engineering;
-- neurophysiological instrumentation;
-- operational laboratory infrastructure;
-- experimental RNM;
-- independent validation;
-- peer-reviewed experimental evidence.
-
-This makes LiberTech potentially useful as a **coordinator and advocacy organization**, but not yet as the sole scientific authority for RNM.
-
----
-
-# 18. Could LiberTech lead a serious investigation?
-
-## Alone
-
-Probably not.
-
-Its current demonstrated scientific infrastructure is insufficient for an investigation of this complexity.
-
-## As a coordinator
-
-Potentially yes.
-
-This may actually be its strongest possible role.
-
-A credible multidisciplinary project could look like:
-
-**LiberTech**
-→ case documentation, advocacy, human rights, coordination.
-
-**Neuroscience laboratory**
-→ neural physiology and experimental design.
-
-**RF/EMF laboratory**
-→ electromagnetic measurements and instrumentation.
-
-**Signal-processing/AI group**
-→ classification and neural decoding.
-
-**Statistics group**
-→ experimental design, false positives, preregistration, statistical validation.
-
-**Independent laboratory**
-→ replication.
-
-**Legal/human-rights experts**
-→ evidence handling, rights, admissibility, policy.
-
-This would be considerably more credible than LiberTech attempting to perform the entire investigation internally.
-
----
-
-# 19. What would turn the LiberTech RNM project into serious science?
-
-A credible project should eventually include:
-
-1. A precise physical hypothesis.
-2. Defined signal characteristics.
-3. Sensor specifications.
-4. Distance and geometry.
-5. Environmental noise measurements.
-6. Shielding/control methodology.
-7. A preregistered experimental protocol.
-8. Adequate control groups.
-9. Blinded or double-blinded testing where appropriate.
-10. Independent statistical analysis.
-11. Raw data preservation.
-12. Clear positive and negative criteria.
-13. False-positive measurement.
-14. Reproducibility procedures.
-15. Independent replication.
-16. Peer-reviewed publication.
-
-The most important question should not be:
-
-> "Can we find something unusual?"
-
-It should be:
-
-> **"Can we demonstrate a measurable, reproducible signal that cannot be explained by known environmental, physiological, electronic, or statistical factors and that contains independently verifiable neural information?"**
-
-That is a much stronger scientific standard.
-
----
-
-# 20. Current answers to the original investigation questions
-
-### Is LiberTech one of the most relevant organizations in this field?
-
-**Not globally in scientific terms.**
-
-It appears to be a relevant niche organization in Chilean neuro-rights/technology advocacy, but it does not currently have the scientific infrastructure of major neuroscience institutions.
-
-### Is it the only organization working with neuro-rights, RNM/V2K, and alleged victims?
-
-**No.**
-
-There are much larger neuro-rights organizations, academic networks, neuroscience centers, human-rights organizations, and advocacy groups. Very few serious scientific organizations combine all of these areas.
-
-### Is LiberTech legitimate?
-
-**Institutionally, there is strong evidence that it is a real organization.**
-
-Its COSOC participation is independently confirmed by the Chilean Ministry of Science.
-
-Scientific legitimacy is a different question.
-
-### Who is behind it?
-
-The strongest currently documented figure is **Horacio Correa**, whose background is in computing, technology, AI, governance, and forensic AI, with institutional involvement in neuro-rights.
-
-The full organizational mapping still needs to be completed.
-
-### Has LiberTech made concrete advances?
-
-**Institutional and advocacy advances are evident.**
-
-A demonstrated RNM technology has **not** yet been established.
-
-### Can LiberTech lead an investigation of this complexity?
-
-**Not independently on the evidence currently available.**
-
-It could potentially lead or coordinate a multidisciplinary project involving universities and specialized laboratories.
-
----
-
-# 21. Most important overall conclusion
-
-The investigation should avoid two opposite mistakes.
-
-### Mistake 1
-
-"RNM/V2K has not been scientifically demonstrated, therefore LiberTech is fake."
-
-That conclusion does not follow.
-
-### Mistake 2
-
-"LiberTech is a legitimate organization and therefore RNM/V2K has been demonstrated."
-
-That conclusion also does not follow.
-
-The evidence supports a third position:
-
-> **LiberTech appears to be a legitimate Chilean civil-society organization with real institutional access and a legitimate interest in neuro-rights and technological risks. Its proposed RNM forensic project is potentially interesting, but publicly available evidence does not yet demonstrate that it has produced a validated RNM/V2K detection system.**
-
-That is currently the strongest evidence-based position.
-
----
-
-# 22. Strategic opportunity
-
-The most promising path may not be trying to establish that LiberTech already possesses the technology.
-
-A stronger objective would be to encourage LiberTech to become the **independent coordinator of a properly controlled, multidisciplinary investigation**.
-
-Such an investigation could test the strongest RNM/V2K claims without assuming either that they are true or that they are impossible.
-
-That would allow the project to move from:
-
-**claims → documentation → hypothesis → controlled experiment → data → replication → scientific conclusion.**
-
-This is the point at which the subject could potentially move from an advocacy dispute into a scientifically testable research program.
-
----
-
-# 23. Evidence status
-
-### Strongly supported
-
-- LiberTech exists as an institutional organization.
-- It has participated in Chile's COSOC science-policy structure.
-- Horacio Correa represents the organization.
-- Correa has a documented technology/AI background.
-- LiberTech has publicly proposed a forensic laboratory.
-- LiberTech has publicly proposed an RNM-related forensic detection project.
-- Neuro-rights are an internationally recognized policy and ethical field.
-- Non-contact detection of brain-associated electromagnetic activity is possible under specialized experimental conditions.
-
-### Partially supported / requires further investigation
-
-- The exact internal structure of LiberTech.
-- Full list of researchers and collaborators.
-- Laboratory equipment.
-- Funding.
-- Financial resources.
-- Patents and intellectual property.
-- Actual prototype development.
-- Institutional partnerships.
-- Scientific publication record.
-- The exact status of each project stage.
-
-### Not established by the evidence reviewed so far
-
-- Operational long-range RNM.
-- Remote arbitrary thought reading.
-- Through-wall thought decoding.
-- Publicly validated V2K.
-- Independent replication of LiberTech's RNM technology.
-- Government operation of LiberTech.
-- A demonstrated operational "brain-print" surveillance system.
-
----
-
-# 24. Next research priorities
-
-The next stages of the investigation should focus on:
-
-1. **Full organizational mapping**
-   - founders;
-   - directors;
-   - researchers;
-   - collaborators;
-   - legal representatives.
-
-2. **Credential verification**
-   - academic degrees;
-   - publications;
-   - ORCID;
-   - patents;
-   - professional registrations.
-
-3. **Laboratory verification**
-   - physical location;
-   - equipment;
-   - staff;
-   - accreditation;
-   - actual operational status.
-
-4. **Financial investigation**
-   - grants;
-   - donations;
-   - government funding;
-   - contracts;
-   - financial transparency.
-
-5. **Scientific output**
-   - PubMed;
-   - Google Scholar;
-   - IEEE;
-   - Crossref;
-   - Scopus/Web of Science;
-   - patents.
-
-6. **RNM prototype investigation**
-   - whether it exists;
-   - whether it has been tested;
-   - experimental data;
-   - methodology;
-   - results;
-   - independent validation.
-
-7. **Technical audit**
-   - electromagnetic physics;
-   - sensor requirements;
-   - signal-to-noise ratio;
-   - AI methodology;
-   - falsifiability;
-   - experimental controls.
-
-8. **International comparison**
-   - Neurorights Foundation;
-   - Columbia;
-   - UNESCO;
-   - OECD;
-   - Latin American neuro-rights networks;
-   - neuroscience and RF laboratories.
-
-9. **Independent scientific pathway**
-   - design the minimum experiment capable of producing meaningful evidence for or against the strongest RNM claims.
-
----
-
-## Bottom line
-
-**LiberTech is more institutionally credible than a superficial review might suggest, but its scientific capacity to prove RNM is currently much less established than its institutional presence.**
-
-Its strongest demonstrated asset is **institutional/advocacy positioning**.
-
-Its largest weakness is **lack of publicly demonstrated experimental infrastructure and independently validated RNM results**.
-
-The organization could become genuinely important if it successfully connects its advocacy work with independent neuroscience, RF engineering, signal-processing, statistics, and laboratory partners.
-
-The decisive question is no longer simply whether LiberTech believes RNM is possible.
-
-It is:
-
-> **Can LiberTech build and submit a rigorous, independently reproducible experiment capable of distinguishing genuine neural information from electromagnetic noise, artifacts, conventional communications, physiological signals, and statistical false positives?**
-
-That is the standard that would ultimately determine the scientific significance of its project.
+That would create a much stronger investigation than any single organization could realistically provide.
