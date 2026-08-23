@@ -1,8 +1,6 @@
-# Fundación LIBERTECH: Preliminary Investigation Summary
-
 **Investigation status:** Preliminary  
 **Reference date:** 23 August 2026  
-**Subject:** Fundación LIBERTECH / LiberTech, neuro-rights, neurotechnology, Remote Neural Monitoring (RNM), V2K, and the proposed forensic detection project.
+**Subject:** Fundación LIBERTECH and others / LiberTech, neuro-rights, neurotechnology, Remote Neural Monitoring (RNM), V2K, and the proposed forensic detection project.
 
 ---
 
