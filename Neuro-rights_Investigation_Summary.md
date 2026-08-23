@@ -84,7 +84,7 @@ That combination is unusual. It should not be confused with scientific leadershi
 
 UNESCO is arguably the most important **intergovernmental institution** in the current neurotechnology ethics landscape.
 
-In November 2025, UNESCO adopted the **Recommendation on the Ethics of Neurotechnology**, described by UNESCO as the first global normative instrument specifically addressing the ethical governance of neurotechnology. The process involved a multidisciplinary international expert group and intergovernmental negotiations. citeturn0search0turn0search1
+In November 2025, UNESCO adopted the **Recommendation on the Ethics of Neurotechnology**, described by UNESCO as the first global normative instrument specifically addressing the ethical governance of neurotechnology. The process involved a multidisciplinary international expert group and intergovernmental negotiations.
 
 UNESCO explicitly identifies issues including:
 
@@ -98,7 +98,7 @@ UNESCO explicitly identifies issues including:
 - autonomy;
 - risks associated with neurotechnology and AI.
 
-UNESCO's International Bioethics Committee had already called for stronger protection of brain activity and mental privacy before the 2025 Recommendation. citeturn0search4turn0search16
+UNESCO's International Bioethics Committee had already called for stronger protection of brain activity and mental privacy before the 2025 Recommendation.
 
 **Relevance to RNM/V2K:**  
 UNESCO does not validate RNM/V2K claims. Its relevance is much broader: it establishes international ethical and human-rights principles for real neurotechnologies capable of recording, interpreting, or modifying brain activity.
@@ -125,7 +125,7 @@ Its **Recommendation on Responsible Innovation in Neurotechnology** emphasizes:
 - oversight;
 - protection of personal brain data;
 - stewardship and trust;
-- anticipation of unintended use and misuse. citeturn0search6turn0search19
+- anticipation of unintended use and misuse.
 
 The OECD currently describes neurotechnology as involving areas such as:
 
@@ -134,7 +134,7 @@ The OECD currently describes neurotechnology as involving areas such as:
 - neuromodulation;
 - neurological devices.
 
-It also emphasizes collaboration among governments, researchers, industry, clinicians, and civil society. citeturn0search2
+It also emphasizes collaboration among governments, researchers, industry, clinicians, and civil society.
 
 **Relevance to RNM/V2K:**  
 The OECD does not establish that long-range RNM exists. Its value is in providing a high-level governance framework for technologies that genuinely interact with the nervous system.
@@ -162,7 +162,6 @@ A 2024 Human Rights Advisory Committee report specifically addressed:
 - autonomy;
 - mental integrity.
 
-citeturn1search34
 
 This is important because neurotechnology is no longer merely a niche bioethics issue. It has entered the formal international human-rights system.
 
@@ -192,7 +191,7 @@ Its work discusses issues including:
 - self-incrimination;
 - neurotechnology and biomedicine.
 
-A particularly important point is that Council of Europe discussions have questioned whether entirely new rights are necessary or whether existing human rights should be interpreted and adapted to neurotechnology. citeturn1search35
+A particularly important point is that Council of Europe discussions have questioned whether entirely new rights are necessary or whether existing human rights should be interpreted and adapted to neurotechnology.
 
 **Importance:** ★★★★★
 
@@ -223,8 +222,6 @@ It describes its work as involving:
 - non-discrimination;
 - fair access;
 - responsible neurotechnology.
-
-citeturn1search0turn1search1
 
 Its five principal neurorights framework includes:
 
@@ -1073,7 +1070,7 @@ It now includes:
 
 UNESCO's 2025 Recommendation and the OECD's responsible-innovation framework demonstrate that neurotechnology governance has moved beyond a purely speculative academic discussion. citeturn0search1turn0search6
 
-The Neurorights Foundation has emerged as the most visible dedicated advocacy organization, while the International Neuroethics Society and university-based centers provide broader academic infrastructure. citeturn1search1turn1search37
+The Neurorights Foundation has emerged as the most visible dedicated advocacy organization, while the International Neuroethics Society and university-based centers provide broader academic infrastructure.
 
 Latin America has an unusually active ecosystem, especially around Chile, Colombia, Brazil, and regional academic networks. citeturn3search0turn3search3
 
