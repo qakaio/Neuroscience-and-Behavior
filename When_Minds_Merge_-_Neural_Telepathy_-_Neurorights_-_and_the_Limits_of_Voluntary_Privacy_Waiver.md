@@ -9,6 +9,9 @@
 **Received:** 8 April 2026  
 **Accepted:** 16 August 2026
 
+Link:
+https://link.springer.com/article/10.1007/s12152-026-09668-y
+
 ---
 
 ## Table of Contents
