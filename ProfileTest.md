@@ -1,153 +1,111 @@
-<h1 align="center">Hi, I'm Kaio Garcia 👋</h1>
+<h1 align="center">Hi, I'm Kaio 👋</h1>
 
 <p align="center">
-  <b>QA Automation Engineer</b> • <b>SDET</b> • <b>Test Automation Specialist</b>
+  <b>QA Automation Engineer</b> • <b>Test Automation</b> • <b>API Testing</b>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Playwright-✅-green" />
-  <img src="https://img.shields.io/badge/API-Testing-✅-brightgreen" />
   <img src="https://img.shields.io/badge/Selenium-✅-orange" />
+  <img src="https://img.shields.io/badge/API-Testing-✅-brightgreen" />
   <img src="https://img.shields.io/badge/JMeter-✅-blue" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-✅-black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-✅-black" />
 </p>
 
 <p align="center">
-  I build reliable automated testing solutions for web, API, performance, and security validation.
+  I build and improve test automation systems for web, API, performance, and security validation.
 </p>
 
 ---
 
 ## About Me
 
-I am a QA Automation Engineer focused on designing scalable test strategies, improving software quality, and building trustworthy CI/CD pipelines.
+I’m a QA Automation Engineer passionate about building reliable, maintainable, and high-value testing solutions.
 
-My work combines:
-- End-to-end automation
-- API testing
-- Performance testing
-- Security validation
-- Test reporting and analytics
-- GitHub Actions and automation workflows
+I enjoy working across:
+- web automation
+- API validation
+- performance testing
+- security-focused checks
+- CI/CD pipelines and reporting
 
-I enjoy creating practical, maintainable automation that helps teams ship with confidence.
+My goal is simple: help teams release with more confidence and less risk.
 
 ---
 
 ## Core Skills
 
-### Automation & Testing
 - Playwright
 - Selenium
 - API Testing
-- REST API Validation
-- Smoke / Regression / End-to-End Testing
-- Cross-browser testing
-
-### Performance & Security
-- JMeter
-- Load Testing
-- Stress Testing
-- SQL Injection validation
-- Security testing workflows
-
-### DevOps & Quality Engineering
-- GitHub Actions
-- CI/CD pipelines
-- Test reporting with Allure
-- GitHub Pages deployment
-- Test architecture and maintainability
-
-### Tech Stack
-- JavaScript
-- TypeScript
+- JavaScript / TypeScript
 - Python
-- Node.js
-- Git
-- HTML / CSS
-- Bash / PowerShell
+- JMeter
+- GitHub Actions
+- Allure Reports
+- GitHub Pages
+- CI/CD automation
+- Quality engineering
 
 ---
 
 ## Featured Projects
 
-### 1) Playwright Web Automation
-A complete automation suite for e-commerce web testing, including smoke, regression, and browser coverage.
+### Playwright Automation
+Automated end-to-end testing for a public e-commerce application, with browser coverage, reporting, and CI integration.
 
 - Playwright
 - JavaScript
-- GitHub Actions
-- Allure Reports
-- GitHub Pages deployment
+- CI/CD
+- Allure reporting
 
-🔗 GitHub: https://github.com/qakaio/Kaio-QA-portfolio-playwright
+🔗 https://github.com/qakaio/Kaio-QA-portfolio-playwright
 
 ---
 
-### 2) API Testing with Playwright + TypeScript
-Automated API validation across CRUD flows, schema checks, error handling, resource coverage and reporting.
+### API Testing
+Automation for REST API validation with Playwright + TypeScript, covering CRUD flows, schema checks, and reporting.
 
 - TypeScript
 - Playwright API testing
 - Postman collection
-- Allure reporting
-- CI/CD ready
+- GitHub Actions
 
-🔗 GitHub: https://github.com/qakaio/Kaio-QA-portfolio-API-testing
+🔗 https://github.com/qakaio/Kaio-QA-portfolio-API-testing
 
 ---
 
-### 3) Performance Testing with JMeter
-Performance validation using JMeter for smoke, load and stress scenarios with generated reports and automation.
+### Performance Testing
+Load and stress testing using JMeter, with generated performance reports and structured validation.
 
 - JMeter
 - Performance testing
-- Report generation
-- CI/CD integration
+- Reporting
+- Automation
 
-🔗 GitHub: https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter
+🔗 https://github.com/qakaio/Kaio-QA-portfolio-performance-test-jmeter
 
 ---
 
-### 4) Security Testing
-Focused on SQL injection validation and security-oriented test scenarios for web applications.
+### Security Testing
+Security-oriented validation focused on SQL injection and vulnerability analysis workflows.
 
 - Python
 - Security testing
 - Validation scripts
-- Automated checks
 
-🔗 GitHub: https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection
-
----
-
-### 5) Selenium Automation
-Browser automation using Selenium with structured test flows and CI-friendly setup.
-
-- Selenium
-- JavaScript
-- Browser automation
-- CI pipeline
-
-🔗 GitHub: https://github.com/qakaio/Kaio-QA-portfolio-selenium
+🔗 https://github.com/qakaio/Kaio-QA-portfolio-pentest-dvwa-sql-injection
 
 ---
 
-## Workflow
+## What I Focus On
 
-I focus on building quality systems that are:
-- reliable
-- repeatable
-- well-documented
-- easy to run in CI
-- easy to review and maintain
-
-This includes:
-- automated test execution
-- test artifact upload
-- HTML / Allure reporting
-- GitHub Pages publishing
-- cleaner developer workflows
+I care about:
+- reliable test automation
+- cleaner QA workflows
+- maintainable test architecture
+- practical CI/CD integration
+- high-quality testing that adds business value
 
 ---
 
@@ -165,10 +123,10 @@ This includes:
 - LinkedIn: https://linkedin.com/in/kaioqa
 - Portfolio: https://qakaio.github.io
 
-If you want to collaborate, discuss QA automation, or explore opportunities, feel free to reach out.
+If you want to connect, collaborate, or talk about QA automation, feel free to reach out.
 
 ---
 
 <p align="center">
-  <i>Quality is not a feature. It is a system.</i>
+  <i>Building reliable quality through automation.</i>
 </p>
